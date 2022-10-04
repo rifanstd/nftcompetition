@@ -1,0 +1,6 @@
+There is packages or library you need to install before run this .ipynb file : 
+
+1. pandas
+2. matplotlib
+3. sklearn
+4. numpy

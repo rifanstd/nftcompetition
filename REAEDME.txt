@@ -1,0 +1,6 @@
+How to run this file (.ipynb)?
+==============================
+
+1. Use IDE that provide *.ipynb file. Example : VSCode, PyCharm, Google Colab, etc.
+2. Don't forget to add dataset (csv file) to relative folder you want
+3. If you put the dataset into relative folder, you must to change path in .ipynb that contain csv file.
